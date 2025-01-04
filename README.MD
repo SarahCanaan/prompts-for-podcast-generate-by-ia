@@ -1,5 +1,3 @@
-C:\Users\User\Downloads\a funny image of a female employee of Caixa Econômica Federal with a doubtful expression, hands raised as if surprised, with a high-tech background.png
-# Projeto Podcast Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante curso na plataforma DIO como parte da avaliação
