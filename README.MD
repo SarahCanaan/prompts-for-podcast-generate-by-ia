@@ -37,7 +37,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Copilot] (https://copilot.microsoft.com/chats/FjEcPaqhUCGXM7Xy7ueRg)
+- Copilot (https://copilot.microsoft.com/chats/FjEcPaqhUCGXM7Xy7ueRg)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
